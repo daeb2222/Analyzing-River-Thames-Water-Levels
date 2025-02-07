@@ -12,4 +12,4 @@ Annual Low Tide Analysis: Calculation of the annual percentage of days with very
 
 Summary: Creation of a dictionary named solution encapsulating the key findings, including high and low tide statistics and the ratios of very high and very low tide days.
 
-Visualization: Determination of hypothesis with the resulten exmination of data and plot it to confirm.
+Visualization: Determination of hypothesis with the resulting examination of data and plot it to confirm.
